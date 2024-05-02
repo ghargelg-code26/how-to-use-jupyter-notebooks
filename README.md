@@ -45,4 +45,3 @@ Note that the kernel says Python 3. It inherits from the workspace so it will be
 ## Other resources
 
 The Python - Get started tab from the Python Extension also has a sample notebook to show off jupyters features. It also has a shortcut key combination to create new notebooks. 
->>>>>>> f03e8f7 (Update README.md for jupyter instructions)
